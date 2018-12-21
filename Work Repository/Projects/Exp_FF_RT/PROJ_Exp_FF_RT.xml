@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.07" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="wNGGyB4VJXO2cBxtQfiYXQ==" exportKeySalt="5edc03ab-9648-4bf3-9ffd-464a878741c3" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="7fq7zDTJagUf2uBwwetLaQ==" exportKeySalt="50c62f35-604d-452a-bf4b-619df20fa02e" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpProject">
 		<Field name="BegVersion" type="java.sql.Timestamp">null</Field>
 	<Field name="ExtVersion" type="java.lang.String">null</Field>
@@ -9,9 +9,9 @@
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[498def7c-ee64-44d3-8e81-d467cb6f6b24]]></Field>
 	<Field name="IndChange" type="java.lang.String">null</Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[66]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[71]]></Field>
 	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[541]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-12-21 10:49:30.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-12-21 11:10:28.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ProjectCode" type="java.lang.String"><![CDATA[EXP_FF_RT]]></Field>
 	<Field name="ProjectName" type="java.lang.String"><![CDATA[Exp-FF-RT]]></Field>
@@ -25,6 +25,14 @@
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[354cd7a7-b810-4c9d-ae21-5c62999d2dec]]></Field>
 	<Field name="Version" type="java.lang.String"><![CDATA[4f9583ced01bf225b097a4843e06520c32a38462]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[First_Folder/FOLD_First_Folder.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpFolder]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[MergeTest]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[4d0793cf-ba32-45ec-a7ad-fb6af727ef46]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[0fd28f3b958bda05cb7955198b07179568277bf9]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[MergeTest/FOLD_MergeTest.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
 		<Field name="Type" type="java.lang.String"><![CDATA[SnpFolder]]></Field>
