@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.07" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="KfQJwgZvRzgsqbbn48BpvQ==" exportKeySalt="cb81c48c-aeae-442d-8eed-62a5f264daad" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="J5oI68P1Itq4V/aYeeXWZA==" exportKeySalt="4b3469e9-063e-46c8-bced-a98bb7f8fe4b" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpSubModel">
 		<Field name="CodSmod" type="java.lang.String"><![CDATA[DEFAULT]]></Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-12-07 07:36:14.0]]></Field>
@@ -12,7 +12,7 @@
 	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[81]]></Field>
 	<Field name="ISmod" type="com.sunopsis.sql.DbInt"><![CDATA[92]]></Field>
 	<Field name="ISmodParent" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-12-21 11:45:16.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-12-21 11:57:44.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="RevApplyPattern" type="java.lang.String">null</Field>
 	<Field name="RevPatternOrder" type="java.lang.String">null</Field>
@@ -25,7 +25,7 @@
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[continents]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[5c29d3fc-9c77-4250-8df2-7cebed6d99b9]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[7267fb76c50407783f4f596e48d0ed2e79b4d88d]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[21fb7d9c31a1724ad0340dda423b7780454d19c1]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[TAB_continents.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
