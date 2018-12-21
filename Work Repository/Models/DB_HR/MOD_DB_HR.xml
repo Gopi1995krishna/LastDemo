@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.07" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="P0HdRvWnRKD1cl3E9j1GOg==" exportKeySalt="b8ed3b63-7e4d-438e-ae4f-7b8e19653708" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="bnqK8Z41tgliJAHiDyY9lA==" exportKeySalt="5dbba23b-ca69-4976-886e-f2df567711cb" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpModel">
 		<Field name="AliasLength" type="com.sunopsis.sql.DbInt"><![CDATA[35]]></Field>
 	<Field name="BegVersion" type="java.sql.Timestamp">null</Field>
@@ -65,7 +65,7 @@
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[Global]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[5474ca6e-9891-41aa-885e-731b9d1253bf]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[1e835fbe294d90897112c587ad3c22dfe0c5df60]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[accff53c1ac583c9eac72c74ad1242bf13fe5a8a]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Global/SMOD_Global.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.DwgExportSummary">
